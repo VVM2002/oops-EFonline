@@ -55,7 +55,7 @@ python fuckEF.py
 0. get python installed on your system
 1. clone this repository
 2. install pip
-3. install dependencies: selenium python binding + browser (use Tuna for faster speed) + selenium driver
+3. install dependencies: selenium python binding (use Tuna for faster speed) + browser + selenium driver
 4. cd into the repo and run the python script. `cd oops-EFonline && python fuckEF.py`
 5. login your account in the browser controlled by this program, the program will detect whether you have successfully logged in.
 6. then the program will automatically run. have fun.
